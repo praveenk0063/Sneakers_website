@@ -43,10 +43,28 @@ nav {
   margin-left: 15px;
 }
 
-.limitedOffer {
+.login {
   font-size: 20px;
   border-bottom: 2px solid green;
   cursor: pointer;
+}
+
+a:link{
+  color: white;
+  text-decoration: none;
+}
+
+a:visited{
+  color: white;
+  text-decoration: none;
+}
+a:hover{
+  color: white;
+  text-decoration: none;
+}
+a:active{
+  color: white;
+  text-decoration: none;
 }
 
 .navBottom {
